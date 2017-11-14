@@ -1,0 +1,58 @@
+[
+  {
+    "index": "/company",
+    "icon": "el-icon-tickets",
+    "name": "menu_company",
+    "auth": "company",
+    "path": "/company"
+  },
+  {
+    "index": "/personal",
+    "icon": "el-icon-tickets",
+    "name": "menu_personal",
+    "auth": "personal",
+    "path": "/personal"
+  },
+  {
+    "index": "/group",
+    "icon": "el-icon-menu",
+    "name": "menu_group",
+    "auth": "group",
+    "path": "/group"
+  },
+  {
+    "index": "/share",
+    "icon": "el-icon-share",
+    "name": "menu_share",
+    "auth": "share",
+    "path": "/share"
+  },
+  {
+    "index": "/favorite",
+    "icon": "el-icon-star-on",
+    "name": "menu_favorite",
+    "auth": "favorite",
+    "path": "/favorite"
+  },
+  {
+    "index": "/link",
+    "icon": "el-icon-view",
+    "name": "menu_link",
+    "auth": "link",
+    "path": "/link"
+  },
+  {
+    "index": "/authorize",
+    "icon": "el-icon-warning",
+    "name": "menu_authorize",
+    "auth": "authorize",
+    "path": "/authorize"
+  },
+  {
+    "index": "/message",
+    "icon": "el-icon-bell",
+    "name": "menu_message",
+    "auth": "message",
+    "path": "/message"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "type": "folder",
+    "date": "2017-01-01",
+    "name": "2017年客户资料",
+    "create": "admin"
+  },
+  {
+    "type": "folder",
+    "date": "2016-12-03",
+    "name": "2016年客户资料",
+    "create": "admin"
+  },
+  {
+    "type": "folder",
+    "date": "2015-05-03",
+    "name": "2015年客户资料",
+    "create": "admin"
+  },
+  {
+    "type": "picture",
+    "date": "2010-03-30",
+    "name": "合影",
+    "create": "admin"
+  },
+  {
+    "type": "word",
+    "date": "2016-05-03",
+    "name": "合同",
+    "create": "admin"
+  },
+  {
+    "type": "ppt",
+    "date": "2016-05-03",
+    "name": "产品介绍",
+    "create": "admin"
+  },
+  {
+    "type": "excel",
+    "date": "2016-05-03",
+    "name": "联系人资料",
+    "create": "admin"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "index": "1",
+    "icon": "el-icon-location",
+    "name": "系统管理",
+    "child": [
+      {
+        "index": "1-1",
+        "name": "用户管理"
+      },
+      {
+        "index": "1-2",
+        "name": "组织管理"
+      }
+    ]
+  },
+  {
+    "index": "2",
+    "icon": "el-icon-location",
+    "name": "权限管理",
+    "child": [
+      {
+        "index": "2-1",
+        "name": "角色"
+      },
+      {
+        "index": "2-2",
+        "name": "权限",
+        "child": [
+          {
+            "index": "2-2-1",
+            "name": "资源"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": "3",
+    "icon": "el-icon-tickets",
+    "name": "企业空间"
+  },
+  {
+    "index": "4",
+    "icon": "el-icon-tickets",
+    "name": "个人空间"
+  },
+  {
+    "index": "5",
+    "icon": "el-icon-menu",
+    "name": "我的群组"
+  },
+  {
+    "index": "6",
+    "icon": "el-icon-share",
+    "name": "共享文件"
+  },
+  {
+    "index": "7",
+    "icon": "el-icon-star-on",
+    "name": "我的收藏"
+  },
+  {
+    "index": "8",
+    "icon": "el-icon-view",
+    "name": "外链管理"
+  },
+  {
+    "index": "9",
+    "icon": "el-icon-warning",
+    "name": "授权管理"
+  },
+  {
+    "index": "10",
+    "icon": "el-icon-bell",
+    "name": "消息动态"
+  }
+]
